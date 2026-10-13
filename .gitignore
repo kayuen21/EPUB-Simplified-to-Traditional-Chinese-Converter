@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.spec
+
+# Build & Dist
+build/
+dist/
+*.tmp*
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# EPUB files (books)
+*.epub
+test_books/
